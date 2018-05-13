@@ -13,6 +13,7 @@ Project Organization
     │   ├── external       <- Data from third party sources.
     │   ├── interim        <- Intermediate data that has been transformed.
     │   ├── processed      <- The final, canonical data sets for modeling.
+    │   ├   └──ensambling      <- CSV prepared for ensambling.
     │   └── raw            <- The original, immutable data dump.
     │
     ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
@@ -50,7 +51,3 @@ Project Organization
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.testrun.org
 
-
---------
-
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
