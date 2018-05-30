@@ -51,3 +51,10 @@ Project Organization
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.testrun.org
 
+Ejecución de los Notebooks
+------------
+1_Clean words
+2_Graph Analisis
+3_Analisis of clean words_Machine_Learning
+4_Analisis of clean words_Deep_Learning-CNN_LSTM
+5_Ensambling Test Submissions
