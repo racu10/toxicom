@@ -1,7 +1,7 @@
 toxicom
 ==============================
 
-Proyecto basado en la identificación de comentarios tóxicos.
+Proyecto basado en la clasificación de comentarios según el tipo de mensaje, los datos han sido extraidos de la Wikipedia.
 
 Project Organization
 ------------
